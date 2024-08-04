@@ -55,6 +55,6 @@ This tool is intended for educational purposes and personal use only. Users must
 
 ## Contact
 
-For any queries, suggestions, or feedback, please contact us via email: [iwantacrepe.github@gmail.com](mailto:iwantacrepe.github@gmail.com).
+For any queries, suggestions, or feedback, please contact us via email: [vanshiganjoo@gmail.com](mailto:vanshiganjoo@gmail.com).
 
 Thank you for your interest in our Times of India News Scraper.
